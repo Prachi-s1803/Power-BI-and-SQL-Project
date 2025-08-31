@@ -1,4 +1,8 @@
 # Power-BI-and-SQL-Project
 This project integrates Power BI dashboards with MySQL databases to provide a comprehensive analysis. The Power BI dashboard consists of two interactive pages that present insights through a variety of visualization tools such as Stacked Bar Charts, Tree Maps, Cards, and Slicers. Power BI not only helps in cleaning and transforming raw data but also allows the creation of visually appealing and meaningful dashboards for better decision-making. 
+
+
 On the other project, MySQL serves as a powerful tool for managing the backend data. It enables updating, deleting, and modifying the records efficiently using SQL queries. For this project, responses were collected through Google Forms and integrated with MySQL using Pabbly Connect. This integration ensures that as soon as new responses are recorded in the linked Excel sheet, they are automatically inserted into the MySQL table, keeping the database up to date in real-time.
+
+
  By combining the analytical power of Power BI with the reliability of MySQL, this project demonstrates a streamlined workflow—from data collection and storage to analysis and visualization—providing valuable insights into credit card transactions ,customer behaviour as well as Student data.
